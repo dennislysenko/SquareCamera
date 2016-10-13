@@ -3,7 +3,7 @@ apply plugin: 'com.github.dcendents.android-maven'
 apply plugin: 'com.jfrog.bintray'
 
 version = "1.1.1"
-group = "com.dennislysenko.boxme"
+group = "com.github.dboxme"
 
 def siteUrl = 'https://github.com/boxme/SquareCamera'
 def gitUrl = 'https://github.com/boxme/SquareCamera.git'
